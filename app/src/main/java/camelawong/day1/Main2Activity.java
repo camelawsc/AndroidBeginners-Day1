@@ -26,7 +26,7 @@ public class Main2Activity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(Main2Activity.this, MainActivity.class);
                 Random rand = new Random();
-                intent.putExtra("number", rand.nextInt(100)+1);
+                intent.putExtra("number", Integer.toString(rand.nextInt(100)+1));
                 startActivity(intent);
             }
         });

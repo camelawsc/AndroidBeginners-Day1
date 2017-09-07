@@ -2,5 +2,5 @@
     <string name="app_name">Day1</string>
     <string name="initial_num">0</string>
     <string name="ASwitch">Activity A Button</string>
-    <string name="BSwtich">Activity B Button</string>
+    <string name="BSwitch">Activity B Button</string>
 </resources>

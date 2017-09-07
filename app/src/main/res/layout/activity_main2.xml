@@ -22,6 +22,6 @@
         android:id="@+id/BButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/ASwitch"/>
+        android:text="@string/BSwitch"/>
 
 </LinearLayout>
